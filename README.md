@@ -4,7 +4,6 @@
 
 **An intelligent multi-agent system for executing complex tasks through natural language**
 
-[![GitHub stars](https://img.shields.io/github/stars/immohitsen/taskflow-ai?style=social)](https://github.com/immohitsen/taskflow-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)](https://fastapi.tiangolo.com)
@@ -111,8 +110,8 @@ graph LR
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/immohitsen/taskflow-ai.git
-cd taskflow-ai
+git clone https://github.com/11rahul00/ai_ops_assistant
+cd ai_ops_assistant
 ```
 
 #### 2. Backend Setup
@@ -190,7 +189,7 @@ Frontend will be available at: http://localhost:5173
 ## 📁 Project Structure
 
 ```
-taskflow-ai/
+ai_ops_assistant/
 ├── agents/                   # Multi-agent system
 │   ├── base_agent.py        # Abstract base class for all agents
 │   ├── planner.py           # Task planning and decomposition
@@ -530,12 +529,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by [Mohit Singh](https://github.com/immohitsen)**
-
-If you find this project useful, please consider giving it a ⭐️
-
-[Report Bug](https://github.com/immohitsen/taskflow-ai/issues) • [Request Feature](https://github.com/immohitsen/taskflow-ai/issues)
-
-</div>
