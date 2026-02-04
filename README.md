@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 TaskFlow AI
+# 🤖 AI OPS ASSISTANT
 
 **An intelligent multi-agent system for executing complex tasks through natural language**
 
